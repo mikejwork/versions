@@ -1,7 +1,11 @@
 {
   "version":"0.2.5 beta",
   "notes": [
-    "test note",
-    "another"
+    "Fixed bug with pagination including duplicate rows",
+    "Added cryptocurrency app",
+    "Added invoice management for businesses",
+    "Updated config & documentation - docs.icyscripts.net",
+    "Converted some notifications to use UI Locales & translations",
+    "Minor bugfixes & optimizations"
   ]
 }
