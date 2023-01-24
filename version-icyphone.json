@@ -1,11 +1,10 @@
 {
-  "version":"0.2.5 beta",
+  "version":"0.2.6 beta",
   "notes": [
-    "Fixed bug with pagination including duplicate rows",
-    "Added cryptocurrency app",
-    "Added invoice management for businesses",
-    "Updated config & documentation - docs.icyscripts.net",
-    "Converted some notifications to use UI Locales & translations",
-    "Minor bugfixes & optimizations"
+    "Fixed overflow on popup container",
+    "Twitter input auto focus when shown",
+    "Messages input auto focus when shown",
+    "Added notes app",
+    "More changes to crypto market pricing"
   ]
 }
