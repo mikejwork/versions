@@ -1,10 +1,12 @@
 {
-  "version":"0.2.6 beta",
+  "version":"0.2.7 beta",
   "notes": [
-    "Fixed overflow on popup container",
-    "Twitter input auto focus when shown",
-    "Messages input auto focus when shown",
-    "Added notes app",
-    "More changes to crypto market pricing"
+    "Streamer mode now hides images",
+    "Streamer mode profanity filter",
+    "Twitter 'Remember me' feature for saving logins",
+    "Twitter moderation - deleting tweets if moderator/admin",
+    "Added support for more VOIP scripts",
+    "Group chats added to messages app",
+    "Minor optimization & locale fixes"
   ]
 }
