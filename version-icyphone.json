@@ -5,6 +5,7 @@
     "Added 'Home' app - view owned houses & set GPS location to them",
     "Fixed some issues with message thumbnails",
     "Fixed crash with messages filter",
+    "Added background blur customization option",
     "Fixed invoice payment notification",
     "Various fixes & optimizations"
   ]
