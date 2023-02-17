@@ -1,12 +1,11 @@
 {
-  "version":"0.2.8 beta",
+  "version":"0.2.9 beta",
   "notes": [
-    "Added 'Services' app - job alerts & requests",
-    "Added 'Home' app - view owned houses & set GPS location to them",
-    "Fixed some issues with message thumbnails",
-    "Fixed crash with messages filter",
-    "Added background blur customization option",
-    "Fixed invoice payment notification",
-    "Various fixes & optimizations"
+    "Gallery app overhaul",
+    "Gallery now has AirDrop",
+    "Contact image editable in settings - will use this when sharing contact",
+    "Fixed some issues with drop down menus in settings",
+    "Can now paste from clipboard in phone keypad",
+    "Added support for different sql query exports"
   ]
 }
