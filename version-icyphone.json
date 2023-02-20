@@ -11,6 +11,6 @@
     "Fixed calls page footer spacing",
     "Fixed issues with conversation thumbnails not showing correct info",
     "Added some missing locales",
-    "Reworked phone keybinding so its configurable (Uses an export so you can put the keybind handling anywhere you'd like)",
+    "Reworked phone keybinding so its configurable (Uses an export so you can put the keybind handling anywhere you'd like)"
   ]
 }
