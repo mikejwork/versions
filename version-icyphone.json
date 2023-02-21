@@ -1,16 +1,10 @@
 {
-  "version":"0.3.0 beta",
+  "version":"0.3.1 beta",
   "notes": [
-    "Added support for ESX (Version 1.9.1 tested & working)",
-    "Complete overhaul of config - Configurable standardized functions (has also made it way easier for me to add support for things like ox-core, etc.)",
-    "Added contact image initials",
-    "Changed font to something closer to the actual IOS font",
-    "Fixed some UI crashes with business management menu",
-    "Added info button to recent calls to navigate to the contact",
-    "Added switch to recent calls page to view missed / all calls",
-    "Fixed calls page footer spacing",
-    "Fixed issues with conversation thumbnails not showing correct info",
-    "Added some missing locales",
-    "Reworked phone keybinding so its configurable (Uses an export so you can put the keybind handling anywhere you'd like)"
+    "Fixed an SQL issue with conversation images being null",
+    "Fixed an issue where different formats of phone numbers would break stuff",
+    "Dutch locales added, thank you to Mitchel#1111",
+    "Added config for Answering / Declining phone calls",
+    "Fixed phone not resetting on character logout"
   ]
 }
