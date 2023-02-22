@@ -4,6 +4,7 @@
     "Optimized & Smoother UI",
     "Added test driving for vehicles",
     "Added export for vehicle data",
-    "Added filters for vehicle class & showing only custom cars"
+    "Added filters for vehicle class & showing only custom cars",
+    "Added color picker"
   ]
 }
