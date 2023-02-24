@@ -1,10 +1,16 @@
 {
-  "version":"0.3.1 beta",
+  "version":"0.3.2 beta",
   "notes": [
-    "Fixed an SQL issue with conversation images being null",
-    "Fixed an issue where different formats of phone numbers would break stuff",
-    "Dutch locales added, thank you to Mitchel#1111",
-    "Added config for Answering / Declining phone calls",
-    "Fixed phone not resetting on character logout"
+    "Added some warnings in console for commonly missed config",
+    "Added Czech translations - Thanks Dogys#6666 <3",
+    "Updated contact card in settings page to display character name instead of phone number",
+    "Updated notifications for camera errors",
+    "Added image field to advertisements",
+    "Fixed groupchat live update messages not working",
+    "Some locales added & removed",
+    "Added no caller id setting to the phone",
+    "Overhaul of the mail app - Added image, button, GPS support + export",
+    "Added workaround for default qb-phone mail event for compatibility",
+    "Added ability to delete emails"
   ]
 }
