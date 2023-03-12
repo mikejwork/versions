@@ -1,10 +1,6 @@
 {
-  "version":"2.0.0",
+  "version":"2.0.1",
   "notes": [
-    "Optimized & Smoother UI",
-    "Added test driving for vehicles",
-    "Added export for vehicle data",
-    "Added filters for vehicle class & showing only custom cars",
-    "Added color picker"
+    "Added loading state to vehicle purchase, stops accidentally buying multiple cars at once"
   ]
 }
