@@ -1,10 +1,21 @@
 {
-  "version":"0.3.3 beta",
+  "version":"0.4.0 beta",
   "notes": [
-    "Added some new logging to debugMode for support help",
-    "Added enable, disable & isDisabled exports",
-    "Added createNotification export",
-    "Added callNumber export",
-    "Fixed some config to automatically detect if an older version of ESX is being used"
+    "Added support for cd_garages & custom garage column names",
+    "Fixed issue with garages config parsing",
+    "Groups app - Create, join, delete groups. Exports to interact with members of a group - more functionality to be added!",
+    "Groups app exports",
+    "Reworked routing system (More optimized)",
+    "Removed duty checks from services app",
+    "Fixed issue with server hitches at high player numbers",
+    "Fixed bug with anonymous calling",
+    "Fixed bug where 'Line is busy' would show after players call bugs out",
+    "Streamer mode will now stop all music nearby",
+    "Various fixes to the music functionality & 'ghost' sounds",
+    "Settings system reworked - Per-character settings",
+    "Specific notification settings added, can toggle notification & sound for each app",
+    "Fixed issue where message thumbnail would show GPS Location instead of image",
+    "Added favouriting to contacts - Will sort the contact list by favourites.",
+    "Added banking exports for society funds"
   ]
 }
