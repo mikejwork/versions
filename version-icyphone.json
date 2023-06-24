@@ -1,26 +1,8 @@
 {
-  "version":"0.5.0 beta",
+  "version":"0.5.1 beta",
   "notes": [
-    "Racing Application added",
-    "Added 'Sim Card' template to 'config/other' folder for default racing app item",
-    "Configuration for which jobs can access the racing app / what item is needed to see the app",
-    "Track creator: Enter a name, description and place checkpoints to create tracks for others to race.",
-    "Race creator: Create a casual or competitive race with a variety of settings (More to come)",
-    "Player ELO system: For competitive races, ELO will be gained or lost depending on racer ranks.",
-    "Precise race timer (Total & Best lap time) - Track leaderboards etc. coming soon",
-    "Locales overhaul, simplified & condensed",
-    "Added Config.JobHire, Config.JobPromote, and more config for business management",
-    "Changed twitter leaderboard to show the past week most liked posts",
-    "Fixed twitter post avatar not being centered",
-    "Fixed background image blur causing edge gap",
-    "Fixed advertisement page not updating when a post is created",
-    "New animations for messages and twitter (Smoother loading, less jittery)",
-    "Fixed some misc crashes",
-    "Fixed issue with sounds not always playing",
-    "Fixed issue where advertisement sound would play when airplane mode was active",
-    "Added a full-zoom button to gallery",
-    "Fixed mail content & mail preview not parsing HTML properly",
-    "Fixed some edge cases with calls failing",
-    "Fixed UI issue with messages titles"
+    "Track records for racing app added",
+    "Leaderboard page for ELO rankings",
+    "Some misc bug fixes"
   ]
 }
